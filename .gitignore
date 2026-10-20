@@ -1,0 +1,18 @@
+
+# Compiled Java files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Build output
+out/
+build/
+target/
+
+# Logs and temporary files
+*.log
