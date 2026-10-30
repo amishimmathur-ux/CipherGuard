@@ -374,9 +374,7 @@ public class Main {
     static final PasswordHistory history = new PasswordHistory();
     public static void main(String[] args) {
         int choice = 0;
-        System.out.println("==============================");
-        System.out.println("       CIPHERGUARD TOOL");
-        System.out.println("==============================");
+        System.out.println("CIPHERGUARD TOOL");
         while (choice != 7) {
             System.out.println("\nChoose an option:");
             System.out.println("1. Check password strength");
